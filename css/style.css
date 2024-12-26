@@ -1,0 +1,45 @@
+ body{
+  background: linear-gradient(to top ,rgb(119, 190, 199),rgb(255, 253, 253) );
+  height: 120vh;
+
+ }
+ button{
+    transition-duration:1s;
+ }
+ button:hover{
+    transform: scale(1.1);
+    background-color: whitesmoke;
+    color: #000;
+ }
+ header{
+   background-image: url(../image/imge.1.jpg);
+   min-height: 120vh; 
+  min-width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+ }
+ .imgg{
+   margin-left: 1300px;
+   margin-top: 14px;
+ }
+ .imgg2{
+   width: 400px;
+   height: 400px;
+   margin-left: 570px;
+    
+ }
+ .img3{
+   width: 200px;
+   height: 170px;
+   border-radius: 12px;
+ }
+ .item{
+   width: 350px;
+   height: 340px;
+   border-radius: 12px;
+   margin-top: 60px;
+ }
+  
+  
+  
